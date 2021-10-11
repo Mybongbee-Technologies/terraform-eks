@@ -40,7 +40,7 @@ $ cd Terraform_Scripts
 ``` sh
 # Initialise to install plugins
 $ terraform init VPC/
-# Validate teffaform scripts
+# Validate terraform scripts
 $ terraform validate VPC/
 # Plan terraform scripts which will list resources which is going  be created.
 $ terraform plan VPC/
